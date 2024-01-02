@@ -1,6 +1,7 @@
 # CV-chest-X-ray
 Design and train a deep learning classifier that takes an x-ray image as the input and  assigns the input image to one of the four classes: COVID-19 positive, Normal, Lung Opacity,  Viral Pneumonia.
 
+https://colab.research.google.com/drive/1dhlzCZIEsdNJuJwheFgIQsyWTixFdTY7?usp=sharing
 
 
 数据预处理和增强
